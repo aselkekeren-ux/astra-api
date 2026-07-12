@@ -1,6 +1,3 @@
-fastapi
-uvicorn
-openai
+streamlit
 replicate
-elevenlabs
-python-dotenv
+requests
