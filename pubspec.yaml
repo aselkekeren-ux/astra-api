@@ -1,4 +1,1 @@
-dependencies:
-  flutter:
-    sdk: flutter
-  http: ^1.2.0  # API ile konuşmamızı sağlar
+
